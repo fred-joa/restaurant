@@ -10,10 +10,11 @@ const App = () => (
     <Header />
     <AboutUs />
     <SpecialMenu />
-    <h1>Stopped at 05:00</h1>
     <Chef />
     <Intro />
+    
     <Laurels />
+    <h1>Stopped at 05:40</h1>
     <Gallery />
     <FindUs />
     <Footer />
