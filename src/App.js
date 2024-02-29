@@ -12,9 +12,7 @@ const App = () => (
     <SpecialMenu />
     <Chef />
     <Intro />
-    
     <Laurels />
-    <h1>Stopped at 05:40</h1>
     <Gallery />
     <FindUs />
     <Footer />
